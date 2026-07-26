@@ -1,0 +1,39 @@
+# Models (large files)
+models/
+*.task
+
+# Output files
+output/
+project/output/
+
+# Audio/video data
+project/audio/*.wav
+project/data/
+*.mp4
+*.wav
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
