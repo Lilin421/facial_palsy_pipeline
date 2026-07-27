@@ -1,0 +1,7 @@
+2026-07-27 10:10:28,743 [INFO] normalization.pipeline: Video: C:/Users/lilia/Desktop/agentic_ai/test/pof_ver2/project/data/test_2.mp4 (2205 frames @ 30.4 fps)
+2026-07-27 10:11:13,758 [INFO] normalization.pipeline: Extracted 2205 frames, 2205 with detections.
+2026-07-27 10:11:13,791 [INFO] normalization.pipeline: Interpolation complete.
+2026-07-27 10:11:13,999 [INFO] normalization.pipeline: Spatial normalization complete.
+2026-07-27 10:11:20,760 [INFO] normalization.pipeline: Temporal smoothing complete.
+2026-07-27 10:11:20,765 [INFO] normalization.pipeline: Validation passed: no NaN, correct dimensions.
+2026-07-27 10:11:25,278 [INFO] normalization.pipeline: Saved CSV: output/normalization/landmarks.csv

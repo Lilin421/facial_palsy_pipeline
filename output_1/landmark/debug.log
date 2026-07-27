@@ -1,0 +1,4 @@
+2026-07-26 10:43:57,645 [INFO] landmark: Loaded FaceLandmarker from: C:/Users/lilia/Desktop/agentic_ai/test/pof_ver2/project/landmark/face_landmarker.task
+2026-07-26 10:43:57,705 [INFO] landmark: Video: C:/Users/lilia/Desktop/agentic_ai/test/pof_ver2/project/data/with_audio.mp4 (960x544 @ 30.0 fps)
+2026-07-26 10:45:26,591 [INFO] landmark: Processed 2151 frames, avg 27.3 ms/frame
+2026-07-26 10:45:26,594 [INFO] landmark: Saved to: output/landmark/result.mp4

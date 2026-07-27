@@ -1,0 +1,137 @@
+{
+  "tasks": [
+    {
+      "task_id": 2,
+      "task_name": "Close eye",
+      "instruction_start": 2.84,
+      "instruction_end": 4.02,
+      "movement_start": 4.02,
+      "next_instruction": 6.9,
+      "supporting_transcript": [
+        "Close your eyes."
+      ]
+    },
+    {
+      "task_id": 3,
+      "task_name": "Tightly close eye",
+      "instruction_start": 6.9,
+      "instruction_end": 10.32,
+      "movement_start": 10.32,
+      "next_instruction": 14.22,
+      "supporting_transcript": [
+        "Close your eyes a bit tighter."
+      ]
+    },
+    {
+      "task_id": 1,
+      "task_name": "Raise eyebrow",
+      "instruction_start": 14.22,
+      "instruction_end": 18.9,
+      "movement_start": 18.9,
+      "next_instruction": 20.74,
+      "supporting_transcript": [
+        "Raise your eyes a bit higher."
+      ]
+    },
+    {
+      "task_id": 4,
+      "task_name": "Blink repeatedly",
+      "instruction_start": 20.74,
+      "instruction_end": 23.64,
+      "movement_start": 23.64,
+      "next_instruction": 23.64,
+      "supporting_transcript": [
+        "Blink repeatedly."
+      ]
+    },
+    {
+      "task_id": 5,
+      "task_name": "Smile",
+      "instruction_start": 23.64,
+      "instruction_end": 26.33,
+      "movement_start": 26.33,
+      "next_instruction": 28.42,
+      "supporting_transcript": [
+        "Smile.",
+        "Smile."
+      ]
+    },
+    {
+      "task_id": 6,
+      "task_name": "Big Smile",
+      "instruction_start": 28.42,
+      "instruction_end": 33.56,
+      "movement_start": 33.56,
+      "next_instruction": 38.42,
+      "supporting_transcript": [
+        "A bigger smile."
+      ]
+    },
+    {
+      "task_id": 7,
+      "task_name": "Puff up cheeks",
+      "instruction_start": 38.42,
+      "instruction_end": 40.44,
+      "movement_start": 40.44,
+      "next_instruction": 42.56,
+      "supporting_transcript": [
+        "Puff your cheeks, oh, it's puff your cheeks, like this."
+      ]
+    },
+    {
+      "task_id": 8,
+      "task_name": "Screw up nose",
+      "instruction_start": 42.56,
+      "instruction_end": 44.92,
+      "movement_start": 44.92,
+      "next_instruction": 48.42,
+      "supporting_transcript": [
+        "Screw up your nails."
+      ]
+    },
+    {
+      "task_id": 9,
+      "task_name": "Raise top lip",
+      "instruction_start": 48.42,
+      "instruction_end": 51.42,
+      "movement_start": 51.42,
+      "next_instruction": 54.68,
+      "supporting_transcript": [
+        "Raise your top lip."
+      ]
+    },
+    {
+      "task_id": 10,
+      "task_name": "Lower bottom lip",
+      "instruction_start": 54.68,
+      "instruction_end": 57.18,
+      "movement_start": 57.18,
+      "next_instruction": 57.26,
+      "supporting_transcript": [
+        "Lower your bottom lip."
+      ]
+    },
+    {
+      "task_id": 11,
+      "task_name": "Angry neck",
+      "instruction_start": 57.26,
+      "instruction_end": 61.66,
+      "movement_start": 61.66,
+      "next_instruction": 62.82,
+      "supporting_transcript": [
+        "Do the angry check like this."
+      ]
+    },
+    {
+      "task_id": 12,
+      "task_name": "Blow Kiss",
+      "instruction_start": 62.82,
+      "instruction_end": 67.0,
+      "movement_start": 67.00,
+      "next_instruction": 72.00,
+      "supporting_transcript": [
+        "Then blow kiss for 3 times."
+      ]
+    }
+  ]
+}

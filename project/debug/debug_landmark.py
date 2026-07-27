@@ -26,7 +26,7 @@ def main() -> None:
     )
 
     result = process_video_landmarks(
-        video_path="C:/Users/lilia/Desktop/agentic_ai/test/pof_ver2/project/data/with_audio.mp4",
+        video_path="C:/Users/lilia/Desktop/agentic_ai/test/pof_ver2/project/data/test_2.mp4",
         output_path=f"{output_dir}/result.mp4",
         model_path="C:/Users/lilia/Desktop/agentic_ai/test/pof_ver2/project/landmark/face_landmarker.task",
     )

@@ -53,7 +53,7 @@ def main() -> None:
 
     # Run
     normalized = normalize_video_landmarks(
-        video_path="C:/Users/lilia/Desktop/agentic_ai/test/pof_ver2/project/data/with_audio.mp4",
+        video_path="C:/Users/lilia/Desktop/agentic_ai/test/pof_ver2/project/data/test_2.mp4",
         detector=detector,
         output_csv=f"{output_dir}/landmarks.csv",
         config=config,
