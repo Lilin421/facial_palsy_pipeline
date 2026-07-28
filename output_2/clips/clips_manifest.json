@@ -1,0 +1,86 @@
+[
+  {
+    "task_id": 1,
+    "task_name": "Raise eyebrow",
+    "clip_path": "/workspace/project/ver5/project/output/clips/01_raise_eyebrow.mp4",
+    "clip_start": 0.733,
+    "clip_end": 4.567
+  },
+  {
+    "task_id": 3,
+    "task_name": "Tightly close eye",
+    "clip_path": "/workspace/project/ver5/project/output/clips/03_tightly_close_eye.mp4",
+    "clip_start": 5.533,
+    "clip_end": 10.233
+  },
+  {
+    "task_id": 2,
+    "task_name": "Close eye",
+    "clip_path": "/workspace/project/ver5/project/output/clips/02_close_eye.mp4",
+    "clip_start": 9.9,
+    "clip_end": 12.633
+  },
+  {
+    "task_id": 4,
+    "task_name": "Blink repeatedly",
+    "clip_path": "/workspace/project/ver5/project/output/clips/04_blink_repeatedly.mp4",
+    "clip_start": 13.067,
+    "clip_end": 17.967
+  },
+  {
+    "task_id": 5,
+    "task_name": "Smile",
+    "clip_path": "/workspace/project/ver5/project/output/clips/05_smile.mp4",
+    "clip_start": 21.767,
+    "clip_end": 27.467
+  },
+  {
+    "task_id": 6,
+    "task_name": "Big smile",
+    "clip_path": "/workspace/project/ver5/project/output/clips/06_big_smile.mp4",
+    "clip_start": 25.633,
+    "clip_end": 32.767
+  },
+  {
+    "task_id": 8,
+    "task_name": "Screw up nose",
+    "clip_path": "/workspace/project/ver5/project/output/clips/08_screw_up_nose.mp4",
+    "clip_start": 35.233,
+    "clip_end": 39.467
+  },
+  {
+    "task_id": 7,
+    "task_name": "Puff up cheeks",
+    "clip_path": "/workspace/project/ver5/project/output/clips/07_puff_up_cheeks.mp4",
+    "clip_start": 38.733,
+    "clip_end": 43.467
+  },
+  {
+    "task_id": 9,
+    "task_name": "Raise top lip",
+    "clip_path": "/workspace/project/ver5/project/output/clips/09_raise_top_lip.mp4",
+    "clip_start": 43.267,
+    "clip_end": 49.467
+  },
+  {
+    "task_id": 10,
+    "task_name": "Lower bottom lip",
+    "clip_path": "/workspace/project/ver5/project/output/clips/10_lower_bottom_lip.mp4",
+    "clip_start": 54.8,
+    "clip_end": 62.333
+  },
+  {
+    "task_id": 11,
+    "task_name": "Angry neck",
+    "clip_path": "/workspace/project/ver5/project/output/clips/11_angry_neck.mp4",
+    "clip_start": 60.567,
+    "clip_end": 62.033
+  },
+  {
+    "task_id": 12,
+    "task_name": "Blow kisses for 3 times",
+    "clip_path": "/workspace/project/ver5/project/output/clips/12_blow_kisses_for_3_times.mp4",
+    "clip_start": 67.933,
+    "clip_end": 73.233
+  }
+]

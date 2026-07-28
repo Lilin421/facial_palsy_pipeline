@@ -1,0 +1,22 @@
+{
+  "region": "forehead",
+  "primary_findings": {
+    "brow_excursion": "Symmetrical brow movement observed.",
+    "brow_symmetry": "Brow movement appears symmetrical.",
+    "forehead_wrinkles": "Forehead wrinkles are visible during brow elevation.",
+    "movement_quality": "Smooth and coordinated brow movement.",
+    "brow_elevation_completeness": "Complete brow elevation achieved."
+  },
+  "secondary_findings": {
+    "eye_narrowing": "No significant eye narrowing observed.",
+    "mouth_movement": "No associated mouth movement observed.",
+    "contracture": "No contracture observed.",
+    "unexpected_associated_movement": "No unexpected associated movements observed."
+  },
+  "visual_observations": [
+    "Forehead wrinkles become prominent during brow elevation.",
+    "Brow elevation is consistent across both sides."
+  ],
+  "possible_associated_movements": [],
+  "uncertain_findings": []
+}

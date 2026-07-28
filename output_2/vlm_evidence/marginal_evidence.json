@@ -1,0 +1,22 @@
+{
+  "region": "lower_lip_and_chin",
+  "primary_findings": {
+    "lower_lip_depression": "observed",
+    "lower_lip_symmetry": "maintained",
+    "lower_lip_excursion": "present",
+    "mentalis_contraction": "observed",
+    "chin_movement": "observed"
+  },
+  "secondary_findings": {
+    "eye_movement": "not assessed",
+    "platysma_activation": "not assessed"
+  },
+  "visual_observations": [
+    "The lower lip shows a downward movement.",
+    "Symmetry of the lower lip is maintained during movement.",
+    "There is visible contraction of the mentalis muscle.",
+    "Chin movement is noted along with the lower lip depression."
+  ],
+  "possible_associated_movements": [],
+  "uncertain_findings": []
+}

@@ -1,0 +1,25 @@
+{
+  "hb_grade": "I",
+  "affected_side": "none",
+  "confidence": 0.95,
+  "summary": "The patient exhibits complete symmetrical function across all facial regions, with no evidence of weakness, asymmetry, or synkinesis. Both visual and quantitative evidence consistently show symmetrical movements and complete function, indicating normal facial nerve function.",
+  "region_assessment": {
+    "forehead_brow": "Symmetrical brow movement and complete elevation observed.",
+    "eye_closure": "Complete and symmetrical eye closure with no lagophthalmos.",
+    "midface_mouth": "Symmetrical mouth movement with no asymmetry during smile or other tasks.",
+    "lower_face": "Symmetrical lower lip and chin movement with no observed weakness.",
+    "neck_platysma": "Symmetrical platysma activation with smooth contraction."
+  },
+  "weakness_findings": [],
+  "asymmetry_findings": [],
+  "synkinesis_findings": [],
+  "discounted_findings": [
+    {
+      "feature": "EAR_L",
+      "side": "left",
+      "task": "Screw up nose",
+      "reason": "The slight unilateral movement observed is within normal physiological variation and not indicative of synkinesis."
+    }
+  ],
+  "uncertain_findings": []
+}

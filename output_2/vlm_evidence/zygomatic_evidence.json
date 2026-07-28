@@ -1,0 +1,25 @@
+{
+  "region": "eye",
+  "primary_findings": {
+    "eyelid_closure_completeness": "Complete closure observed during tasks.",
+    "lagophthalmos": "No lagophthalmos observed.",
+    "eyelid_symmetry": "Symmetrical eyelid movement observed.",
+    "blink_quality": "Blinking appears complete and symmetrical.",
+    "orbicularis_oculi_contraction": "Visible contraction during eye closure tasks.",
+    "eye_closure_effort": "Effort appears symmetrical and adequate."
+  },
+  "secondary_findings": {
+    "brow_movement": "Slight brow movement observed during eye closure.",
+    "mouth_movement": "Minimal mouth movement observed during eye closure.",
+    "chin_movement": "No significant chin movement observed.",
+    "platysma_activation": "No platysma activation observed."
+  },
+  "visual_observations": [
+    "Eyelids close completely and symmetrically during tasks.",
+    "Brow movement is slight and symmetrical during eye closure."
+  ],
+  "possible_associated_movements": [
+    "Slight brow movement during eye closure."
+  ],
+  "uncertain_findings": []
+}

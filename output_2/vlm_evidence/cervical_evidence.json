@@ -1,0 +1,22 @@
+{
+  "region": "neck",
+  "primary_findings": {
+    "platysma_activation": "visible",
+    "neck_symmetry": "symmetric",
+    "contraction_strength": "moderate",
+    "contraction_quality": "smooth"
+  },
+  "secondary_findings": {
+    "mouth_movement": "present",
+    "eye_movement": "minimal"
+  },
+  "visual_observations": [
+    "The platysma muscle is visibly activated during the task.",
+    "Neck appears symmetric during contraction.",
+    "Contraction strength is moderate with smooth quality."
+  ],
+  "possible_associated_movements": [
+    "Mouth opening observed during neck contraction."
+  ],
+  "uncertain_findings": []
+}

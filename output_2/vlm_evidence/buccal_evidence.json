@@ -1,0 +1,30 @@
+{
+  "region": "oral and midface",
+  "primary_findings": {
+    "mouth_corner_excursion": "symmetrical",
+    "smile_symmetry": "symmetrical",
+    "upper_lip_movement": "visible",
+    "lip_seal": "maintained",
+    "teeth_visibility": "visible during smile",
+    "cheek_elevation": "symmetrical",
+    "cheek_fullness": "symmetrical",
+    "nasolabial_fold_depth": "consistent",
+    "nasolabial_fold_orientation": "normal",
+    "nose_wrinkle": "present during nose screw",
+    "upper_lip_lift": "visible"
+  },
+  "secondary_findings": {
+    "eye_narrowing": "present during smile",
+    "mentalis_contraction": "not observed",
+    "platysma_activation": "not observed",
+    "contracture": "not observed",
+    "abnormal_associated_movement": "not observed"
+  },
+  "visual_observations": [
+    "Mouth corners lift symmetrically during smile.",
+    "Cheeks elevate symmetrically during smile.",
+    "Upper lip movement is visible during nose screw."
+  ],
+  "possible_associated_movements": [],
+  "uncertain_findings": []
+}
